@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋 Welcome!
 
-<!--
-**RK31-B/RK31-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header image](https://via.placeholder.com/1000x250.png?text=Hello,+I'm+[Your+Name]!&bg=0D1117&color=ffffff)
 
-Here are some ideas to get you started:
+## Hello, my name is Robert Khachumian  
+Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-khachumian/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RK-31B)    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍🎓 About Me
+🎓 Bachelor’s student in **Business & Economics** @ **WU Vienna University of Economics and Business**  
+📊 Interests: **Data Analytics**, **Finance**, **Quantitative Finance**, **Machine Learning**  
+💻 Skills: **SQL** (basic to intermediate), currently learning **Python**  
+🚀 Passionate about turning raw data into actionable insights for better decision-making  
+
+---
+
+### 🛠 Tools & Technologie
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Plotly-logomark.png" alt="Plotly" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
+</p>
+
+---
+
+### 📚 Currently Learning
+- Python for data analysis  
+- Machine learning for finance  
+- Advanced SQL for business analytics  
+
+---
+
+### 📫 How to Reach Me
+📍 Vienna, Austria  
+📧 robert.khachumian@example.com  
+💼 [LinkedIn](https://www.linkedin.com/in/robert-khachumian/)  
+
+---
