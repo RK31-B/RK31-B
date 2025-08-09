@@ -26,6 +26,7 @@ Let's Connect!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" width="40" height="40"/>
 </p>
 
 
