@@ -1,4 +1,3 @@
-# Hi there 👋 Welcome!
 
 ## Hello, my name is Robert Khachumian  
 Let's Connect!  
