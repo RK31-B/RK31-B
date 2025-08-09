@@ -22,11 +22,12 @@ Let's Connect!
   <img src="https://img.icons8.com/ios-filled/50/007ACC/sql.png" alt="SQL" width="40" height="40"/>
   <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="DBeaver" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40" style="background-color:white; padding:2px; border-radius:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="Plotly" width="40" height="40"/>
+  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
 </p>
+
 
 
 ---
