@@ -1,7 +1,5 @@
 # Hi there 👋 Welcome!
 
-![Header image](https://via.placeholder.com/1000x250.png?text=Hello,+I'm+[Your+Name]!&bg=0D1117&color=ffffff)
-
 ## Hello, my name is Robert Khachumian  
 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-khachumian/)  
