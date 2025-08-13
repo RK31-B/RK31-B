@@ -10,7 +10,7 @@ Let's Connect!
 🎓 Bachelor’s student in **Business & Economics** @ **WU Vienna University of Economics and Business**  
 📊 Interests: **Data Analytics**, **Finance**, **Quantitative Finance**, **Machine Learning**  
 💻 Skills: **SQL** (basic to intermediate), currently learning **Python**  
-🚀 Passionate about turning raw data into actionable insights for better decision-making  
+🚀 Aspiring **Fintech** & **QFin** Analyst  
 
 ---
 
